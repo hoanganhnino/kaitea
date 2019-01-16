@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fresh_milk_tea">Fresh Milktea</string>
+    <string name="sencha_fresh">&lt;b>Sencha Sữa tươi&lt;/b>&lt;br>&lt;br>M: 200ml Sencha, đường Hàng 1.&lt;br>L: 250ml Sencha, đường Hàng 2.</string>
+    <string name="olong_fresh">&lt;b>Olong Sữa tươi&lt;/b>&lt;br>&lt;br>M: 200ml Olong, đường Hàng 1.&lt;br>L: 250ml Olong, đường Hàng 2.</string>
+    <string name="buckwheat_fresh">&lt;b>Kiều Mạch Sữa tươi&lt;/b>&lt;br>&lt;br>M: 200ml Kiều Mạch, đường Hàng 3.&lt;br>L: 250ml Kiều Mạch, đường Hàng 1.</string>
+    <string name="matcha_fresh">&lt;b>Matcha Sữa tươi&lt;/b>&lt;br>&lt;br>M: 100ml sữa tươi, đường hàng 4, đổ vào cốc sẵn đá, rót matcha đầy cốc.&lt;br>L: 150ml sữa tươi, đường hàng 4, đổ vào cốc sẵn đá, rót matcha đầy cốc.</string>
+    <string name="note_fresh">&lt;b>Lưu ý:&lt;/b>&lt;br>&lt;br>Đánh 100ml sữa với nửa môi đá mức 5, rót lên mặt trà đến đầy cốc.&lt;br>Riêng Matcha pha trực tiếp vào cốc.</string>
+
+    <string name="classic_milk_tea">Classic Milktea</string>
+    <string name="sencha_classic">&lt;b>Trà sữa Sencha&lt;/b>&lt;br>&lt;br>M: 200ml Sencha, 4 bột sữa, đường hàng 1&lt;br>L: 250ml Sencha, 5 bột sữa, đường hàng 2</string>
+    <string name="jasmine_classic">&lt;b>Nhài sữa&lt;/b>&lt;br>&lt;br>M: 200ml Nhài, 4 bột sữa, đường hàng 1&lt;br>L: 250ml Nhài, 5 bột sữa, đường hàng 2</string>
+    <string name="assam_classic">&lt;b>Hồng Trà sữa&lt;/b>&lt;br>&lt;br>M: 200ml Đen, 4 bột sữa, đường hàng 1&lt;br>L: 250ml Đen, 5 bột sữa, đường hàng 2</string>
+    <string name="olong_classic">&lt;b>Trà sữa Olong&lt;/b>&lt;br>&lt;br>M: 200ml Olong, 4 bột sữa, đường hàng 1&lt;br>L: 250ml Olong, 5 bột sữa, đường hàng 2</string>
+    <string name="socola">&lt;b>Trà sữa Sôcola&lt;/b>&lt;br>&lt;br>M: 100ml Đen + 100 nước sôi, 2 thìa sữa + 1.5 thìa sô, đường hàng 3.&lt;br>L:150ml Đen + 100 nước sôi, 3 thìa sữa + 2 thìa sô, đường hàng 1</string>
+    <string name="note_classic">&lt;b>Lưu ý:&lt;/b>&lt;br>&lt;br>Phải khuấy đều cho tan hết bột. Nếu trà nguội thì dùng máy sục nóng hoặc đun.</string>
+    
+    <string name="fruit_tea">Tropico Fruit Tea</string>
+    <string name="raspberry">&lt;b>Lục trà Phúc bồn tử&lt;/b>&lt;br>&lt;br>M: 100 trà xanh + 100 nước lọc, 20ml shot Raspberry, đường hàng 3.&lt;br>L: 150 trà xanh + 100 nước lọc, 30ml shot Raspberry, đường hàng 1.</string>
+    <string name="cam_xa">&lt;b>Cam xả Nhiệt đới&lt;/b>&lt;br>&lt;br>M: 100 trà xanh + 100 nước lọc, 25ml shot Cam xả, đường hàng 3.&lt;br>L: 150 trà xanh + 100 nước lọc, 30ml shot Cam xả, đường hàng 1.</string>
+    <string name="olong_dao">&lt;b>Olong Đào&lt;/b>&lt;br>&lt;br>M: 100 trà olong + 100 nước lọc, 20ml shot Peach, đường hàng 3.&lt;br>L: 150 trà olong + 100 nước lọc, 30ml shot Peach, đường hàng 1.</string>
+    <string name="chanh_leo">&lt;b>Lục trà Chanh dây&lt;/b>&lt;br>&lt;br>M: 100 trà xanh + 100 nước lọc, 20ml shot PassionFruit, đường hàng 3.&lt;br>L: 150 trà xanh + 100 nước lọc, 30ml shot PassionFruit, đường hàng 1.</string>
+    <string name="lychee">&lt;b>Hồng trà Lệ chi&lt;/b>&lt;br>&lt;br>M: 100 trà Đen + 100 nước lọc, 20ml shot Lychee, đường hàng 3.&lt;br>L: 150 trà Đen + 100 nước lọc, 30ml shot Lychee, đường hàng 1.</string>
+    <string name="note_fruit">&lt;b>Lưu ý:&lt;/b>&lt;br>&lt;br>Shot cho sau cùng sau khi đã cho đá.&lt;br>&lt;br>Trang trí:&lt;br>Cam xả: lát cam + xả&lt;br>Phúc bồn tử: lát cam.&lt;br>Olong đào: 1 miếng đào.&lt;br>Chanh leo: nửa quả chanh leo&lt;br>Lệ chi: 1 quả vải</string>
+
+    <string name="brewed_tea">Brewed Tea</string>
+    <string name="nhai">&lt;b>Trà Nhài&lt;/b>&lt;br>&lt;br>M: 200ml trà Xanh, đường hàng 1.&lt;br>L: 250ml trà Xanh, đường hàng 2.</string>
+    <string name="kieu_mach">&lt;b>Trà Kiều Mạch&lt;/b>&lt;br>&lt;br>M: 200ml trà Kiều Mạch, đường hàng 3.&lt;br>L: 250ml trà Kiều Mạch, đường hàng 1.</string>
+    
+    <string name="cheese_tea">Cheese Tea</string>
+    <string name="nhai_cheese">&lt;b>Lục trà Nhài kem Cheese&lt;/b>&lt;br>&lt;br>M: 200ml trà Xanh, đường hàng 1.&lt;br>L: 250ml trà Nhài, đường hàng 2.></string>
+    <string name="olong_cheese">&lt;b>Olong kem Cheese&lt;/b>&lt;br>&lt;br>M: 200ml trà Olong, đường hàng 1.&lt;br>L: 250ml trà Olong, đường hàng 2.></string>
+    <string name="xoai_cheese">&lt;b>Trà Xoài kem Cheese&lt;/b>&lt;br>&lt;br>M: 70g xoài, 70 trà nhài, 50 nước đào, đường hàng 1, 1 muôi đá, xay mức 8, tăng tốc độ dần lên 3.&lt;br>L: 100g xoài, 100 trà nhài, 50 nước đào, đường hàng 2, 1 muôi đá, xay mức 8, tăng tốc độ dần lên 3.</string>
+    <string name="matcha_cheese_cake">&lt;b>Matcha Cheese Cake&lt;/b>&lt;br>&lt;br>M: 150ml Matcha, 50 sữa tươi, đường hàng 4.&lt;br>L: 200ml Matcha, 50 sữa tươi, đường hàng 4.</string>
+    <string name="socola_cheese_cake">&lt;b>Socola Cheese Cake&lt;/b>&lt;br>&lt;br>M: 100ml Đen + 100 nước sôi, 2 thìa sữa + 1.5 thìa sô, đường hàng 3.&lt;br>L:150ml Đen + 100 nước sôi, 3 thìa sữa + 2 thìa sô, đường hàng 1</string>
+    <string name="note_cheese">&lt;b>Lưu ý:&lt;/b>&lt;br>&lt;br>Với nhài, olong, xoài cheese, sau khi đổ ra cốc thì múc 1 môi cheese (80g).&lt;br>Với matcha, socola cheese cake, đổ vào cốc 3 thìa cheese cake, sau đó quết lên thành cốc</string>
+
+    <string name="topping">Nấu Topping</string>
+    <string name="tcd">&lt;b>Trân Châu Đen&lt;/b>&lt;br>&lt;br>Chuẩn bị nồi có 5 lit nước sôi, 500g trân châu đen, 5 lit nước lọc, 100g đường hạt.&lt;br>Đặt lên bếp đun với nhiệt độ cao nhất.
+        &lt;br>Khi nước sôi sùng sục, đổ trân châu vào, lập tức lấy thìa khuấy dưới đáy nồi, dùng lưới vớt vụn.
+        &lt;br>Khi nước sôi trở lại, chỉnh nhiệt độ bếp về 800, bấm đồng hồ 30 phút.
+        &lt;br>5 phút khuấy 1 lần.
+        &lt;br>Hết 30 phút, tắt bếp, đậy vung, bấm đồng hồ ủ 25 phút.
+        &lt;br>Hết 25 phút, Đổ đá đầy bồn, sau đó đổ bớt nước nóng ở nồi trần châu ra bồn.
+        &lt;br>Đổ nước lọc vào nồi trân châu, khuấy khoảng 2-3 phút.
+        &lt;br>Đổ tất cả trong nồi trân châu ra rổ. Sau khi lấy được phần trân châu ở rổ, đổ phần trân châu ra nồi đựng sẵn đường và khuấy 5 phút.</string>
+    <string name="pudding">&lt;b>Pudding&lt;/b>&lt;br>&lt;br>Chuẩn bị 1 lit nước sôi, 100g bột pudding, 70g đường hạt.
+        &lt;br>Đun nước đến khi sùng sục, tắt bếp, đổ bột và đường khuấy đều trong 3p.
+        &lt;br>Bật bếp trở lại ở 1400, khuấy thêm 2p.
+        &lt;br>Đến khi thấy sôi trở lại, tắt bếp, để ở ngoài 3 tiếng sau đó cho vào tủ lạnh.</string>
+    <string name="matcha">&lt;b>Matcha&lt;/b>&lt;br>&lt;br>Chuẩn bị cối xay có lưỡi có sẵn 15g bột matcha, 750ml nước sôi, 100ml sữa đặc, 5 thìa bột sữa.
+        &lt;br>Xay mức 8, tốc độ 0 bột matcha và nước sôi trong 2 phút.
+        &lt;br>Hết 2 phút, xay tiếp với sữa đặc và bột sữa trong 3 phút.</string>
+    <string name="thach_tuoi">&lt;b>Thạch tươi Tropix&lt;/b>&lt;br>&lt;br>Chuẩn bị 700ml nước sôi, 300ml Sencha, 150g bột thạch rau câu, 30ml đường nước.
+        &lt;br>Đun đến khi nước sôi sùng sục, tắt bếp, đổ trà, bột thạch, đường vào khuấy đầu trong 2 phút.
+        &lt;br>Hết 2 phút, bật bếp trở lại, khuấy đều đến khi sôi trở lại, tắt bếp.</string>
+    <string name="cheese">&lt;b>Cheese&lt;/b>&lt;br>&lt;br>Chuẩn bị Cối xay có lưỡi, cối đánh cheese, 1 chai whipping, 450ml sữa tươi đều ngâm trong đá, 300g bánh cheese cắt khúc nhỏ, 170ml đường nước, 18g muối.
+        &lt;br>Sau khi ngâm cối xay thật lạnh, xay mức 8, tốc độ 2 sữa tươi và bánh cheese trong 2 phút.
+        &lt;br>Sau 2 phút, cho đường vào muối vào xay cùng khoảng 20 giây.
+        &lt;br>Kiểm tra cối đã xay nhuyễn chưa, sau đó đổ vào cối đánh cheese đã ngâm lạnh.
+        &lt;br>Đổ 1 chai whipping vào cùng, vặn tốc độ máy đánh cheese đến 275.
+        &lt;br>Liên tục quan sát độ đông của cheese. Nếu sau 10 phút cheese vẫn chưa đông (nổi vân) thì phải cất ngay vào tủ lạnh để đánh lại.</string>
+    <string name="cheese_cake">&lt;b>Cheese Cake&lt;/b>&lt;br>&lt;br>Chuẩn bị 225g bột bánh, 500ml sữa tươi, 300ml whipping, 300ml base, 50g bột cheese, 5 lòng đỏ trứng gà.
+        &lt;br>Đánh bột bánh và sữa tươi ở mức 150. Chú ý cạo hết bột bánh ở dưới đáy.
+        &lt;br>Bột bánh tan cho whipping vào đánh tiếp.
+        &lt;br>Cho tiếp base, bột cheese vào đánh.
+        &lt;br>Cuối cùng cho trứng gà vào đánh đến khi nhuyễn.</string>
+    <string name="note_topping">&lt;b>Lưu ý:&lt;/b>&lt;br>&lt;br>Trân châu đen: Khi đổ trân châu phải khuấy ngay tránh để dính nồi. Khi rửa trân châu phải đổ đá đầy bồn vì nước sôi làm hỏng ống.
+        &lt;br>Pudding: nấu xong phải để ở ngoài 3h. Cho vào tủ lạnh 2h mới đc sử dụng.
+        &lt;br>Cheese: Cheese rất dễ đánh hỏng, loãng, vữa do dụng cụ không được làm lạnh. Cheese phải đánh trong cối lạnh mới bông, đặc được.
+        &lt;br>Cheese Cake: Lúc khi đánh bột bánh và sữa tươi, phải đánh tan bột dính ở đáy.</string>
+
+    <string name="u_tra">Ủ Trà</string>
+    <string name="u_nhai">&lt;b>Trà Nhài&lt;/b>&lt;br>&lt;br>1 lít nước sôi 90-95 độ, 30g trà, ủ 7 phút</string>
+    <string name="u_den">&lt;b>Trà Đen&lt;/b>&lt;br>&lt;br>1 lít nước sôi 100 độ, 30g trà, ủ 12 phút</string>
+    <string name="u_olong">&lt;b>Trà Olong&lt;/b>&lt;br>&lt;br>1 lít nước sôi 100 độ, 30g trà, ủ 10 phút</string>
+    <string name="u_sencha">&lt;b>Trà Sencha&lt;/b>&lt;br>&lt;br>300ml nước sôi 100 độ, 1 túi trà, ủ 10 phút</string>
+    <string name="u_kieu_mach">&lt;b>Trà Kiều Mạch&lt;/b>&lt;br>&lt;br>300ml nước sôi 100 độ, 1 túi trà, ủ 10 phút</string>
+    <string name="note_u_tra">&lt;b>Lưu ý:&lt;/b>&lt;br>&lt;br>Với trà Nhài, nhiệt độ nước từ 90-95 độ nếu không sẽ đắng, chát&lt;br>Hết thời gian ủ trà, tiến hành lọc bã trà bằng cây lọc và khăn xô</string>
+
+</resources>
